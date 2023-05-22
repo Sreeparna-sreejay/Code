@@ -1,2 +1,2 @@
 # Code
-# Repository skows python programs on numbers.
+ Repository shows python programs on numbers.
